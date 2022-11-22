@@ -36,4 +36,14 @@ Columns spaces can be different and changing them all can be time consuming.
 
 
 ## Formulas and Functions
+Making calculations with the cells.
+> Click on an empty cell and type your formula there or on the formula bar
+```
+#Average = total over count
+=(A1+A2+A3)/3
+```
+> This will give you a value. 
 
+> Copy the cell you wrote the formula in side, select the cells you want to have it pasted inside, and paste
+
+> With that, you will duplicate the formula for other places without typeing it all over again 🎊
