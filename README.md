@@ -101,11 +101,11 @@ Quesiton sample - Average booking window `AND`  Average length of stay for hotel
 
 ## IF
 Conditional functions checks for true or false then makes a move.
-
+```
 =IF(A>B),RETURN ACTION,ELSE
+```
 
-You will know the number of IFs you need by knowing the number of outcomes you are looking for.
+You will know the number of IFs you need by knowing the number of outcomes you are looking for;
 
-If you are looking for two outcomes, its 2 -1 = 1 IF statement.
-
-If you have 3 outcomes, its 3 -1 = 2 IF statements, and so forth
+- If you are looking for `2` outcomes, its `2 -1 = 1 IF statement`.
+- If you have `3` outcomes, its `3 -1 = 2 IF statements`, and so forth
