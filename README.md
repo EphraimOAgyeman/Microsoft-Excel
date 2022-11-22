@@ -10,3 +10,12 @@ All about excel
 
 > `ctrl` + `PgUp`/`PgDn` = Navigate through sheets in a workfile.
  
+## Fill option
+This is used to easily fill data
+
+STEPS
+> Click on the cell you want to use to fill other cells
+
+> Then Click on `Fill` in the right most part of the `Home` tab
+
+> Fill in the options and Viola
