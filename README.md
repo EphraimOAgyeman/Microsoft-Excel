@@ -51,6 +51,10 @@ Making calculations with the cells.
 ---
 
 ## Logical Conditions
+> Logical symbols are formulas so they start with `=`.
+```
+=D10>H50
+```
 
 | Logical Symbols | Meaning | 
 | ------------- |-------------:| 
