@@ -127,3 +127,11 @@ You can insert the second or third IF statement at where the else parameter is p
 ```
 =IFS(Condition, Return Value,Condition, Return Value,Condition, Return Value)
 ```
+
+##  Aggregation functions + IF
+
+How many people paid more than 400
+- COUNTIF - =COUNTIF(range[where to count], Condition for if [in quotes])
+
+How any people payed above 400 in 2022
+- COUNTIFS [count plusmultiple If statements ] - =COUNTIFS(range1, Criterial/condition1, range2, Criteria2/condition2 ...)
