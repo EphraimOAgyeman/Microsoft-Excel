@@ -9,6 +9,8 @@ All about excel
 > `ctrl` + `A` = selects the whole table
 
 > `ctrl` + `PgUp`/`PgDn` = Navigate through sheets in a workfile.
+
+> `ctrl` + `1` = Formatting options pop up
  
 ## Fill option
 This is used to easily fill data
