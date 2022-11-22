@@ -123,4 +123,7 @@ You can insert the second or third IF statement at where the else parameter is p
 
 ## IFS
 
-`IFS is a replacement to the`
+`IFS` is a replacement to the nested if statement
+```
+=IFS(Condition, Return Value,Condition, Return Value,Condition, Return Value)
+```
