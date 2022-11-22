@@ -51,18 +51,12 @@ Making calculations with the cells.
 ---
 
 ## Logical Conditions
-```
->
-<
-<>
-=
->=
-<=
-
-```
 
 | Logical Symbols | Meaning | 
 | ------------- |-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      |   
+| >     | A greater than B | 
+| <   | A less than B     |  
+| <> | A is not equal to B    |   
+| =  | A equal to B | 
+| >= | A is greater than or equal to B    |  
+| <=| A is less than or equal to B   |  
