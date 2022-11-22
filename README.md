@@ -109,3 +109,12 @@ You will know the number of IFs you need by knowing the number of outcomes you a
 
 - If you are looking for `2` outcomes, its `2 -1 = 1 IF statement`.
 - If you have `3` outcomes, its `3 -1 = 2 IF statements`, and so forth
+
+## Nested IF
+
+You can insert the second or third IF statement at where the else parameter is placed.
+```
+=IF(Condition), Return Action, IF(Condition 2), Return Action, Else Return Action
+```
+
+> NB: The conditions can have AND/OR
