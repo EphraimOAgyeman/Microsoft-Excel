@@ -135,3 +135,5 @@ How many people paid more than 400
 
 How any people payed above 400 in 2022
 - COUNTIFS [count plusmultiple If statements ] - =COUNTIFS(range1, Criterial/condition1, range2, Criteria2/condition2 ...)
+- SUMIFS
+- AVERAGEIFS
