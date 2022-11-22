@@ -24,3 +24,10 @@ STEPS
 ## Hide
 You can right click on a table, sheet, row or column and choose hide and unhide when desired.
 > Make sure you check for hidden sheets when you recieve a file or when you send a file
+
+
+## Sizing up the columns
+Columns spaces can be different and changing them all can be time consuming.
+> Select all the columns at the alphabet names and adjust one column and that adjusment will be sent to the rest of the columns
+
+> Select all the columns and double click in between two columns, and Excel will automatically assign sufficient space to each column 🎊
