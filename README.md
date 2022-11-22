@@ -35,7 +35,7 @@ Columns spaces can be different and changing them all can be time consuming.
 > Select all the columns and double click in between two columns, and Excel will automatically assign sufficient space to each column 🎊
 
 
-## Formulas and Functions
+# Formulas and Functions
 Making calculations with the cells.
 > Click on an empty cell and type your formula there or on the formula bar
 ```
@@ -47,3 +47,8 @@ Making calculations with the cells.
 > Copy the cell you wrote the formula in side, select the cells you want to have it pasted inside, and paste
 
 > With that, you will duplicate the formula for other places without typeing it all over again 🎊
+
+---
+
+## Logical Conditions
+
