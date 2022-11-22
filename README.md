@@ -53,7 +53,7 @@ Making calculations with the cells.
 ## Logical Conditions
 > Logical symbols are formulas so they start with `=`.
 ```
-=D10>H50
+= D10 > H50
 ```
 
 | Logical Symbols | Meaning | 
@@ -64,3 +64,14 @@ Making calculations with the cells.
 | =  | A equal to B | 
 | >= | A is greater than or equal to B    |  
 | <=| A is less than or equal to B   |  
+
+## Cell references
+We learnt earlier that the cell formulas can be copied. Now we want it to be copied intelligently.
+By this sometimes we need the column to be fixed or the rows.
+> The dollar sign does this `$`
+
+> =`$K10` the dollar being by just the `k` means the column is fixed but the rows can move
+
+> =`k$10` means the column can move but the rows cannot 
+
+> =`$k6*(1-j$3)`meabs column k is fixed and the its rows will move, row 3 is fixed but its columns will move
