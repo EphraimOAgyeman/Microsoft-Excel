@@ -118,3 +118,5 @@ You can insert the second or third IF statement at where the else parameter is p
 ```
 
 > NB: The conditions can have AND/OR and be sure to add indenting to code for readability and more
+
+> Put statement returns in quotes
