@@ -75,3 +75,12 @@ By this sometimes we need the column to be fixed or the rows.
 > =`k$10` means the column can move but the rows cannot 
 
 > =`$k6*(1-j$3)`meabs column k is fixed and the its rows will move, row 3 is fixed but its columns will move
+
+
+## Aggregation function
+First few ones to know are `SUM`, `AVERAGE`, `COUNT`
+
+```
+=SUM(H1:H4)
+```
+> You can copy the code and paste it into different cells
