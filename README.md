@@ -87,8 +87,9 @@ First few ones to know are `SUM`, `AVERAGE`, `COUNT`
 
 
 # Logical functions
-One logical function can be if A is greater than B.
+One logical function can be if A is greater than B. -
 Another L.Funcion is if C is less than D.
+
 AND / OR check the outcome of both or more functions together.
 
 Quesiton sample - Average booking window `AND`  Average length of stay for hotel 1 `is shorter than` in hotel 2.
