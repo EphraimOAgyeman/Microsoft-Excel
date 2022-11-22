@@ -117,4 +117,4 @@ You can insert the second or third IF statement at where the else parameter is p
 =IF(Condition), Return Action, IF(Condition 2), Return Action, Else Return Action
 ```
 
-> NB: The conditions can have AND/OR
+> NB: The conditions can have AND/OR and be sure to add indenting to code for readability and more
