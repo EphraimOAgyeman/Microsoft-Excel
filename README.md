@@ -19,3 +19,8 @@ STEPS
 > Then Click on `Fill` in the right most part of the `Home` tab
 
 > Fill in the options and Viola
+
+
+## Hide
+You can right click on a table, sheet, row or column and choose hide and unhide when desired.
+> Make sure you check for hidden sheets when you recieve a file or when you send a file
