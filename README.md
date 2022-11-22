@@ -87,6 +87,8 @@ First few ones to know are `SUM`, `AVERAGE`, `COUNT`
 
 
 # Logical functions
+
+## AND/OR
 One logical function can be if A is greater than B. -
 Another L.Funcion is if C is less than D.
 
@@ -96,3 +98,14 @@ Quesiton sample - Average booking window `AND`  Average length of stay for hotel
 ```
 =AND(logical condition, Logical Condition, ...)
 ```
+
+## IF
+Conditional functions checks for true or false then makes a move.
+
+=IF(A>B),RETURN ACTION,ELSE
+
+You will know the number of IFs you need by knowing the number of outcomes you are looking for.
+
+If you are looking for two outcomes, its 2 -1 = 1 IF statement.
+
+If you have 3 outcomes, its 3 -1 = 2 IF statements, and so forth
