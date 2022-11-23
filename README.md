@@ -12,6 +12,7 @@ All about excel
 
 > `ctrl` + `1` = Formatting options pop up
  
+> `ctrl` + `T` = New table
 ## Fill option
 This is used to easily fill data
 
