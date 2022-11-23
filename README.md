@@ -141,3 +141,5 @@ How any people payed above 400 in 2022
 
 # Pivot tables
 
+## Cleaning issues
+- Make sure the tables selected has no column space within them. 
