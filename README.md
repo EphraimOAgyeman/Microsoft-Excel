@@ -140,6 +140,15 @@ How any people payed above 400 in 2022
 
 
 # Pivot tables
+> Transform your data into a table before using it as a pivot table to cater for responsive changes
+
+* Values - Sum,average, Count of columns
+* Rows - Break down of the values in rows
+* Columns
+* Filters
+
 
 ## Cleaning issues
 - Make sure the tables selected has no column space within them. 
+
+- In pivot mode, move the columns to the `values` section 
