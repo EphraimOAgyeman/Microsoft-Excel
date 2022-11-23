@@ -158,4 +158,6 @@ How any people payed above 400 in 2022
 These are used to make furthur important calculation on pivoted tables.
 
 ##  Conditional formatting
-This formatting adds color and special features for a condition in your pivot table
+This formatting adds color and special features for a condition in your pivot table.
+Ie the top 3 or 5 of a particular part
+
