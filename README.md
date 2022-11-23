@@ -153,3 +153,6 @@ How any people payed above 400 in 2022
 - Make sure the tables selected has no column space within them. 
 
 - In pivot mode, move the columns to the `values` section 
+
+## Calculated Field and Calculated item
+These are used to make furthur important calculation on pivoted tables.
